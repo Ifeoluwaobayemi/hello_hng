@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\HelloApi\HelloApi\obj\Release\net6.0\PubTmp\Out\HelloApi.exe
+C:\Users\Dell\source\repos\HelloApi\HelloApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Dell\source\repos\HelloApi\HelloApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Dell\source\repos\HelloApi\HelloApi\obj\Release\net6.0\PubTmp\Out\HelloApi.dll
+C:\Users\Dell\source\repos\HelloApi\HelloApi\obj\Release\net6.0\PubTmp\Out\HelloApi.deps.json
+C:\Users\Dell\source\repos\HelloApi\HelloApi\obj\Release\net6.0\PubTmp\Out\HelloApi.runtimeconfig.json
+C:\Users\Dell\source\repos\HelloApi\HelloApi\obj\Release\net6.0\PubTmp\Out\HelloApi.pdb
+C:\Users\Dell\source\repos\HelloApi\HelloApi\obj\Release\net6.0\PubTmp\Out\DotNetEnv.dll
+C:\Users\Dell\source\repos\HelloApi\HelloApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Dell\source\repos\HelloApi\HelloApi\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\HelloApi\HelloApi\obj\Release\net6.0\PubTmp\Out\Sprache.dll
+C:\Users\Dell\source\repos\HelloApi\HelloApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\source\repos\HelloApi\HelloApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\source\repos\HelloApi\HelloApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

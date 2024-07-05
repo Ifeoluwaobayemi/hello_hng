@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\HelloApi\publish\HelloApi.exe
+C:\Users\Dell\source\repos\HelloApi\publish\appsettings.Development.json
+C:\Users\Dell\source\repos\HelloApi\publish\appsettings.json
+C:\Users\Dell\source\repos\HelloApi\publish\HelloApi.dll
+C:\Users\Dell\source\repos\HelloApi\publish\HelloApi.deps.json
+C:\Users\Dell\source\repos\HelloApi\publish\HelloApi.runtimeconfig.json
+C:\Users\Dell\source\repos\HelloApi\publish\HelloApi.pdb
+C:\Users\Dell\source\repos\HelloApi\publish\Microsoft.OpenApi.dll
+C:\Users\Dell\source\repos\HelloApi\publish\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\HelloApi\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\source\repos\HelloApi\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\source\repos\HelloApi\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
